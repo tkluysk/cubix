@@ -2,3 +2,4 @@
 /Temp
 *.csproj
 /obj
+.sln
